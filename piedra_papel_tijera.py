@@ -56,7 +56,6 @@ while jugar == "s":
         print("Responde con 's' para sí o 'n' para no.")
         jugar = input("¿Deseas jugar de nuevo? (s/n): ")
  
-print("")
 print("--- Marcador final ---")
 print("Victorias:", victorias)
 print("Derrotas:", derrotas)
