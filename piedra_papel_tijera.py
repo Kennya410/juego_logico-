@@ -9,8 +9,7 @@ empates = 0
 jugar = "s"
  
 while jugar == "s":  
- 
-    print("")
+
     print("Elige una opción:")
     print("1. Piedra")
     print("2. Papel")
